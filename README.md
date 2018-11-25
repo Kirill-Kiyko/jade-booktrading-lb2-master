@@ -1,2 +1,2 @@
 # jade-booktrading-lb2
-JADE Agents (wumpus world). Lb2, Vlad Voloshyn
+JADE Agents (wumpus world). Lb2, Kirill Kiyko
